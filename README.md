@@ -1,4 +1,4 @@
-###  Olá, aqui é Gusavo!!👋 
+###  Olá!!👋 
 
 - 🎓 Técnico em Desenvolvimento de Sistemas 3/3 
 
