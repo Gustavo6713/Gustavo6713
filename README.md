@@ -24,6 +24,4 @@
   <a href = "mailto:gustavomfernandes6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="http://linkedin.com/in/gustavo-marques-303a60207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![Snake animation](https://github.com/Gustavo6713/Gustavo6713/blob/output/github-contribution-grid-snake.svg)
-
 </div>  
