@@ -1,7 +1,6 @@
 ###  Olá!!👋 
 
 - 👨 Gustavo Marques Fernandes 
-- 🎉 17 anos
 - 🎓 Cursando Técnico em Desenvolvimento de Sistemas 3/3 
 
 <div>
